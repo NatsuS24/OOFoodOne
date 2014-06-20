@@ -5,9 +5,8 @@ public class Account  {
 	private Membership membership;
 	private IPerson accountHolder;
 	
-	
 	public static IPerson Register(){
-		IPerson returnObject = new Customer("Keepok");
+		IPerson returnObject = new Customer("Keepok","The Fucktard","The 100000 light-years away planet");
 		
 		return returnObject;
 	}

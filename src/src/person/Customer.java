@@ -1,7 +1,7 @@
 package src.person;
 
 public class Customer implements IPerson{
-	public Customer(String name, String address){
+	public Customer(String fname, String lname, String address){
 		
 	}
 	@Override

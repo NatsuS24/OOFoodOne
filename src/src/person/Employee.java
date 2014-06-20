@@ -1,7 +1,9 @@
 package src.person;
 
 public class Employee implements IPerson{
-
+	public Employee(String fname, String lname, String address){
+		
+	}
 	@Override
 	public IPerson getAccount() {
 		// TODO Auto-generated method stub
