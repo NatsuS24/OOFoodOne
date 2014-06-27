@@ -11,7 +11,7 @@ public class Zone {
 		persons = new ArrayList<IPerson>();
 		
 	}
-	public static getZoneByPerson(IPerson person){
+	public static IPerson getZoneByPerson(IPerson person){
 		IPerson returnObject = null;
 		
 		return returnObject;
