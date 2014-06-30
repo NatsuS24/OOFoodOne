@@ -1,5 +1,5 @@
 package src.account;
 
-public interface Membership {
+public class Membership {
 
 }
