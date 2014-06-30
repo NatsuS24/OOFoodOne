@@ -35,7 +35,7 @@ public class Customer implements IPerson{
 	@Override
 	public void setAddress(String str) {
 		// TODO Auto-generated method stub
-		
+		this.address = str;
 	}
 	@Override
 	public void setLastName(String lName) {
